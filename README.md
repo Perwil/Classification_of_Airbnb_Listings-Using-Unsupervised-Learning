@@ -50,6 +50,7 @@ The dataset includes cleaned Airbnb listings and is loaded via `pickle` files fr
 3. **Supervised Learning**
    - Use cluster labels as pseudo-targets
    - Build classification models using pipelines
+<img src="https://github.com/Perwil/Classification_of_Airbnb_Listings-Using-Unsupervised-Learning/blob/main/Pipeline.png" alt="Pipelines" width="400"/>   
 
 4. **Model Evaluation**
    - Compare model accuracy
